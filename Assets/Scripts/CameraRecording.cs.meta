@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 53be363362d5bb64a8d9460ca04c7ed5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - recordingUI: {fileID: 7047923240830994189, guid: 9eb03702e81b2ea4dab7ee7d4c3b255c,
+      type: 3}
+  - timerText: {instanceID: 0}
+  - recordingUIPrefab: {fileID: 7047923240830994189, guid: 9eb03702e81b2ea4dab7ee7d4c3b255c,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
